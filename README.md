@@ -32,7 +32,7 @@ Each model in this repository is organized into its own directory with a dedicat
 
 Here is a list of some of the models included in this repository:
 
-1. [Linear regression](Linear Regression/): Overview: LR is a simple machine learning method for predicting continuous outcomes by finding linear relationships between input variables and the target variable.
+1. [Linear regression]: Overview: LR is a simple machine learning method for predicting continuous outcomes by finding linear relationships between input variables and the target variable.
 
 Use Cases: Predicting house prices, sales forecasts, and understanding variable relationships.
 
@@ -44,7 +44,7 @@ LR is a fundamental tool for modeling linear relationships in data, widely used 
 
 
 
-2. [K Nearest Neighbor](K Nearest Neighbor/): Overview: KNN is a simple machine learning technique for classification and regression based on the similarity of data points.
+2. [K Nearest Neighbor]: Overview: KNN is a simple machine learning technique for classification and regression based on the similarity of data points.
 
 Use Cases: Classification, regression.
 
@@ -56,7 +56,7 @@ KNN is a straightforward algorithm for pattern recognition based on proximity, u
 
 
 
-3. [Support Vector Machine](SVM/): Overview: SVM is a powerful algorithm for classification and regression, ideal for high-dimensional data with optimal decision boundaries.
+3. [Support Vector Machine] Overview: SVM is a powerful algorithm for classification and regression, ideal for high-dimensional data with optimal decision boundaries.
 
 Use Cases: Classification, regression.
 
