@@ -83,7 +83,7 @@ Contributions to this repository are welcome! If you'd like to add your own mode
 
 1. Fork the repository.
 2. Create a new branch for your feature or bugfix: `git checkout -b feature-name`.
-3. Commit your changes and push to your forked repository.
+3.  Commit your changes and push to your forked repository.
 4. Open a pull request with a clear description of your changes.
 
 I appreciate your contributions to make this repository even more useful for the community.
